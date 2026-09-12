@@ -1,0 +1,2 @@
+ALTER TABLE Bill
+ADD COLUMN feeDetails JSON AFTER money; 
